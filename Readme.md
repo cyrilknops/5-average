@@ -2,10 +2,11 @@
 
 ## groepleden
 
-- nn1
-- nn2
-- nn3
-- nn4
+- Simon Geelen
+- Bart Duisters
+- Jeroen Roumen
+- Screurs Sander
+- Knops Cyril
 
 ## omschrijving
 
