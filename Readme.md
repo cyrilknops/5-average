@@ -2,6 +2,8 @@
 
 ## groepleden
 
+2TINH Groep
+
 - Simon Geelen
 - Bart Duisters
 - Jeroen Roumen
