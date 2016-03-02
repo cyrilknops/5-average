@@ -15,13 +15,12 @@
 _zet hier een korte omschrijving van de mappen in de repo_:
 
 - analyse: de analysedocumenten
-- analyse-uitgewerkt: de uitgewerkte analysedocumenten
 - scrum: de scrumverslagen
 - ...
 
 ## installatie
 
-_zet hier een korte gids, omschrijving die helpt om de projecten uit te kunnen voeren_.
+Om de '.md'-documenten te kunnen bekijken heb je een simpele teksteditor nodig (notepad++ ...). Visual Studio Code is een iets uitgebreidere optie waarbij je de '.md'-documenten ook kan previewen.
 
 ## itemX
 
