@@ -15,6 +15,7 @@
 _zet hier een korte omschrijving van de mappen in de repo_:
 
 - analyse: de analysedocumenten
+- analyse-uitgewerkt: de uitgewerkte analysedocumenten
 - scrum: de scrumverslagen
 - ...
 
